@@ -1,0 +1,125 @@
+#main{
+    position: relative;
+    width: 90%;
+    height: auto;
+    background-color: brown;
+    color: rgb(199, 11, 11);
+    margin: auto;
+}
+
+#cabecalho{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    background-color: #d9ff00;
+    height: 100px;
+    padding: 20%px;
+    text-align: center;
+}
+
+#esquerdo{
+    position: absolute;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+    background-color: #00fff2;
+    width: 470px;
+    height: 700px;
+    padding: 10px;
+}
+
+#direito{
+    position: absolute;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    background-color: #7700ff;
+    width: 1022px;
+    height: 700px;
+    padding: 10px;
+    left: 470px;
+
+}
+
+#nav{
+    position: absolute;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    background-color: #ffffff;
+    width: 400px;
+    height: 300px;
+    padding: 10px;
+    left: 30px;
+    top: 160px;
+}
+
+#aside{
+    position: absolute;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    background-color: #ffffff;
+    width: 400px;
+    height: 290px;
+    padding: 10px;
+    left: 30px;
+    top: 500px;
+}
+
+#article{
+    position: absolute;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+    background-color: #ffffff;
+    color: black;
+    width: 1015px;
+    height: 670px;
+    padding: 10px;
+    left: 480px;
+    top: 180px;
+}
+
+#h1{
+    position: absolute;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    width: 1031px;
+    height: 30px;
+    background-color: aqua;
+    left: 480px;
+    top: 200px;
+}
+
+#p{
+    position: absolute;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    width: 1031px;
+    height: 250px;
+    background-color: rgb(112, 60, 60);
+    color: white;
+    left: 480px;
+    top: 230px;
+}
+
+#div{
+    position: absolute;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    width: 1031px;
+    height: 319px;
+    background-color: rgb(131, 127, 127);
+    left: 480px;
+    top: 510px;
+}
+
+#rodape{
+    position: absolute;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    width: 1505px;
+    height: 70px;
+    background-color: rgb(53, 25, 25);
+    left: 8px;
+    top: 828px;
+}
